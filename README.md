@@ -1,2 +1,8 @@
-# pruebaqa
-prueba
+# Proyecto Automatizacion - XXXXX
+## Pasos
+
+1. Clonar el repositorio desde ....
+2. Cambiar datos para Pre y/o Prod: ......
+3. Para ejecutar realizar los siguientes comandos: .....
+
+  
